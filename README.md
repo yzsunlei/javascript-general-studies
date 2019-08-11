@@ -1,7 +1,7 @@
 # 《JavaScript编程通识》
 你必须知道的编程知识。JavaScript数据结构、JavaScript基本算法、JavaScript设计模式等 
 
-## javascript数据结构
+## 一、javascript数据结构
 * **列表**： [示例](https://github.com/yzsunlei/javascript-data-structure/blob/master/01.list.js)
 
 一个存储元素的线性集合（collection），元素可以通过索引来任意存取，索引通常是数字，用来计算元素之间存储位置的偏移量。 
@@ -38,7 +38,7 @@
 
 由边的集合及顶点的集合组成。
 
-## javascript基本算法
+## 二、javascript基本算法
 ### 基础算法
 
 * 阶乘
@@ -123,7 +123,7 @@
 
 * 分支限界法
 
-### javascript设计模式：
+### 三、javascript设计模式：
 * 创建型设计模式：
 1、简单工厂模式
 2、工厂方法模式
